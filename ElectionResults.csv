@@ -1,0 +1,536 @@
+NA-1,Chitral,KP,Molana Abdul Akbar Chitrali,MMA,324
+NA-1,Chitral,KP,Iftikhar ud Din,PML-N,98
+NA-1,Chitral,KP,Saleem Khan,PPP,43
+NA-2,Swat,KP,Haider Ali Khan,PTI,23277
+NA-2,Swat,KP,Amir Muqam,PML-N,12700
+NA-2,Swat,KP,Naveed Iqbal,MMA,420
+NA-2,Swat,KP,Mumtaz Ahmad,ANP,166
+NA-2,Swat,KP,Amjad Ali Khan,PPPP,79
+NA-3,Swat,KP,Saleem Rehman,PTI,5127
+NA-3,Swat,KP,Abdul Karim Khan,ANP,2120
+NA-3,Swat,KP,Shahryar Amirzeb,PPPP,439
+NA-4,Swat,KP,Murad Saeed,PTI,434
+NA-4,Swat,KP,Saleem Khan,ANP,198
+NA-5,Upper Dir,KP,Sahibzada Sibghatullah,PTI,7272
+NA-5,Upper Dir,KP,Sahibzada Tariqullah,MMA,4623
+NA-5,Upper Dir,KP,Najmuddin Khan,PPPP,866
+NA-6,Lower Dir,KP,Mehboob Shah,PTI,1739
+NA-6,Lower Dir,KP,Molana Asadullah,MMA,863
+NA-6,Lower Dir,KP,Ahmad Hassan,PPPP,240
+NA-6,Lower Dir,KP,Muhammad Zahid Khan,ANP,225
+NA-7,Lower Dir,KP,Muhammad Bashir Khan,PTI,11385
+NA-7,Lower Dir,KP,Siraj Ul Haq,MMA,6936
+NA-7,Lower Dir,KP,Syed Shahid Ahmad Jan,PPPP,313
+NA-8,Malakand,KP,Junaid Akbar,PTI,3779
+NA-8,Malakand,KP,Bilawal Bhutto Zardari,PPPP,1293
+NA-10,Shangla,KP,Ibadullah Khan,PML-N,2180
+NA-10,Shangla,KP,Sadeed ur Rehman,ANP,2095
+NA-10,Shangla,KP,Waqar Ahmad khan,PTI,61
+NA-11,Kohistan,KP,Dost Muhammad Shakir,IND,159
+NA-11,Kohistan,KP,Mehboob Ullah Jaan,PML,99
+NA-11,Kohistan,KP,Afreen Khan,MMA,3
+NA-13,Mansehra,KP,Saleh Muhammad,IND,4509
+NA-13,Mansehra,KP,Shah Jahan Yousuf,PML-N,2363
+NA-14,Mansehra,KP,Muhammad Sajjad,IND,2082
+NA-14,Mansehra,KP,Zar Gul Khan,PTI,1699
+NA-14,Mansehra,KP,Mufti Kifayatullah,MMA,360
+NA-15,Abbottabad,KP,Murtaza Javed Abbasi,PML-N,14855
+NA-15,Abbottabad,KP,Ali Asghar Khan,PTI,12500
+NA-15,Abbottabad,KP,Sardar Muhammad Yaqoob,IND,14
+NA-16,Abbottabad,KP,Ali Khan Jadoon,PTI,1765
+NA-16,Abbottabad,KP,Malik Mohbbat Awan,PML-N,1308
+NA-17,Haripur,KP,Omar Ayub,PTI,46733
+NA-17,Haripur,KP,Babar Nawaz Khan,PML-N,30705
+NA-18,Swabi,KP,Asad Qaiser,PTI,1964
+NA-18,Swabi,KP,Muhammad Islam Khan,ANP,926
+NA-18,Swabi,KP,Fazal ALi,MMA,93
+NA-19,Swabi,KP,Eng.Usman Khan Trakai,PTI,10169
+NA-19,Swabi,KP,Waris Khan,ANP,6389
+NA-20,Mardan,KP,Mujahid Ali,PTI,408
+NA-20,Mardan,KP,Gul Nawaz Khan,ANP,103
+NA-21,Mardan,KP,Ameer Haider Khan Hoti,ANP,1176
+NA-21,Mardan,KP,Muhammad Atif,PTI,1097
+NA-23,Charsadda,KP,Anwar Taj,PTI,4243
+NA-23,Charsadda,KP,Haji Zafar Ali,MMA,3001
+NA-23,Charsadda,KP,Aftab Ahmed Khan sher pao,QWP,135
+NA-24,Charsadda,KP,Fazal Muhammad Khan,PTI,1188
+NA-24,Charsadda,KP,Asfandyar Wali Khan,ANP,1050
+NA-25,Nowshera,KP,Pervez Khan Khattak,PTI,9102
+NA-25,Nowshera,KP,Khan Pervez,PPPP,4155
+NA-25,Nowshera,KP,Malik Jumma Khan,ANP,1729
+NA-26,Nowshera,KP,Imran Khattak,PTI,703
+NA-26,Nowshera,KP,Jamal Khan Khattak,ANP,578
+NA-27,Peshawar,KP,Noor Alam Khan,PTI,7651
+NA-27,Peshawar,KP,Haji Ghulam Ali,MMA,4009
+NA-27,Peshawar,KP,Asma Alamgir,PPPP,26
+NA-29,Peshawar,KP,Nasir Khan Mosa Zai,PTI,17064
+NA-29,Peshawar,KP,Naeem Jaan,MMA,6161
+NA-29,Peshawar,KP,Arbab Kamal Ahmad,ANP,228
+NA-29,Peshawar,KP,Amir Muqam,PML-N,183
+NA-29,Peshawar,KP,Muhammad Shafiq Amini,TLP,1
+NA-30,Peshawar,KP,Sher Ali Arbab,PTI,8000
+NA-30,Peshawar,KP,Arbab Najeeb Ullah Khan,MMA,1800
+NA-31,Peshawar,KP,Shaukat Ali,PTI,20710
+NA-31,Peshawar,KP,Haji Ghulam Ahmad Bilour,ANP,10006
+NA-32,Kohat,KP,Shehryar Khan Afridi,PTI,9476
+NA-32,Kohat,KP,Gohar Mohammad Khan Bangash,MMA,7689
+NA-32,Kohat,KP,Abbas Khan Afridi,PML-N,141
+NA-33,Hangu,KP,Khial Zaman,PTI,4783
+NA-33,Hangu,KP,Atiq Ur Rehman,MMA,3443
+NA-34,Karak,KP,Shahid Ahmad Khattak,PTI,522
+NA-34,Karak,KP,Rehmat Salam Khattak,PML-N,476
+NA-35,Bannu,KP,Akram Khan Durrani,MMA,8661
+NA-35,Bannu,KP,Imran Ahmad Khan Niazi,PTI,5870
+NA-36,Lakki Marwat,KP,Muhammad Anwar Khan,MMA,4618
+NA-36,Lakki Marwat,KP,Ishfaq Ahmad Khan,PTI,3703
+NA-37,Tank,KP,Habib Ullah Khan Kundi,PTI,380
+NA-37,Tank,KP,Dawar Khan Kundi,IND,130
+NA-38,Dera Ismail Khan,KP,Muhammad Ali Raza,IND,95
+NA-38,Dera Ismail Khan,KP,Moulana Fazal Ur Rehman,MMA,40
+NA-39,Dera Ismail Khan,KP,Muhammad Yaqoob Sheikh,PTI,10690
+NA-39,Dera Ismail Khan,KP,Moulana Fazal Ur Rehman,MMA,7899
+NA-40,Bajaur Agency,FATA,Gul Afzal,ANP,1705
+NA-40,Bajaur Agency,FATA,Gul Dad Khan,PTI,1563
+NA-40,Bajaur Agency,FATA,Sardar Khan,IND,1563
+NA-41,Bajaur Agency,FATA,Sultan Zeb Khan,IND,815
+NA-41,Bajaur Agency,FATA,Gul Zafar Khan,PTI,813
+NA-41,Bajaur Agency,FATA,Abdur Rasheed,MMA,124
+NA-41,Bajaur Agency,FATA,Qari Abdul Majeed,IND,98
+NA-43,Mohmand Agency,FATA,Noor Ul haq Qadri,PTI,9337
+NA-43,Mohmand Agency,FATA,Shah Jee Gul Afridi,IND,7200
+NA-45,Khyber Agency,FATA,Syed Jamal,PTI,2603
+NA-45,Khyber Agency,FATA,Malik Fakhar Zaman Bangas,IND,2059
+NA-46,Kurram Agency,FATA,Sajid Hussain Turi,PPPP,75
+NA-46,Kurram Agency,FATA,Ibrar Hussain Jaan Turi,IND,3
+NA-46,Kurram Agency,FATA,Syed Irshad Hussain,IND,1
+NA-46,Kurram Agency,FATA,Syed Iqbal Mian,PTI,1
+NA-47,Orakzai Agency,FATA,Abdul Shahid,IND,369
+NA-47,Orakzai Agency,FATA,Malik Gul Karim Khan,IND,270
+NA-48,North Waziristan Agency,FATA,Mohsin Javed,IND,1133
+NA-48,North Waziristan Agency,FATA,Misbah Uddin,MMA,658
+NA-48,North Waziristan Agency,FATA,Nek Muhammad Khan,IND,167
+NA-48,North Waziristan Agency,FATA,Malik Ghulam Khan,PPPP,48
+NA-48,North Waziristan Agency,FATA,Muhammad Iqbal Khan,IND,6
+NA-49,South Waziristan Agency,FATA,Muhammad Jamal Uddin,MMA,6
+NA-49,South Waziristan Agency,FATA,Sher Pao,IND,4
+NA-49,South Waziristan Agency,FATA,Qayum Sher,IND,4
+NA-51,FR Tank,FATA,Qaisar Jamal,PTI,498
+NA-51,FR Tank,FATA,Abdul Shakoor,MMA,310
+NA-51,FR Tank,FATA,Baz Gul,IND,37
+NA-53,Islamabad,ICT,Imran Ahmad Khan Niazi,PTI,2234
+NA-53,Islamabad,ICT,Shahid Khaqan Abbasi,PML-N,745
+NA-54,Islamabad,ICT,Asad Umar,PTI,13582
+NA-54,Islamabad,ICT,Anjum Aqeel Khan,PML-N,5603
+NA-55,Attock,Punjab,Tahir Sadiq,PTI,12600
+NA-55,Attock,Punjab,Shiekh Aftab Ahmed,PML-N,730
+NA-56,Attock,Punjab,Tahir Sadiq,PTI,2135
+NA-56,Attock,Punjab,Malik Sohail Khan,PML-N,1572
+NA-56,Attock,Punjab,Sardar Saleem Haider Khan,PPPP,219
+NA-57,Rawalpindi,Punjab,Shahid Khaqan Abbasi,PML-N,2503
+NA-57,Rawalpindi,Punjab,Sadaqat Ali Abbasi,PTI,1820
+NA-58,Rawalpindi,Punjab,Fazal Muhammad Khan,PTI,6818
+NA-58,Rawalpindi,Punjab,Raja Pervaiz Ashraf,PPPP,6161
+NA-58,Rawalpindi,Punjab,Raja Muhammad Javaid Ikhlas,PML-N,30
+NA-59,Rawalpindi,Punjab,Ghulam Sarvar Khan,PTI,81
+NA-59,Rawalpindi,Punjab,Raja Qamar Ul Islam,PML-N,18
+NA-59,Rawalpindi,Punjab,Chaudhry Nisar Ali Khan,IND,18
+NA-62,Rawalpindi,Punjab,Sheikh Rashid Ahmad,AML,12741
+NA-62,Rawalpindi,Punjab,Daniyal Chaudhry,PML-N,8645
+NA-63,Rawalpindi,Punjab,Ghulam Sarvar Khan,PTI,8445
+NA-63,Rawalpindi,Punjab,Chaudhry Nisar Ali Khan,IND,4475
+NA-64,Chakwal,Punjab,zulfiqar Ali Khan,PTI,5337
+NA-64,Chakwal,Punjab,Major R Tahir iqbal,PML-N,4004
+NA-65,Chakwal,Punjab,Chaudry Pervaiz Elahi,PML-Q,4325
+NA-65,Chakwal,Punjab,Muhammad Faez Tamman,PML-N,2542
+NA-66,Jhelum,Punjab,Chaudhry Farrukh Altaf,PTI,611
+NA-66,Jhelum,Punjab,Chaudhry Nadeem Khadim,PML-N,442
+NA-67,Jhelum,Punjab,Raja Matloob mehdi,PML-N,1530
+NA-67,Jhelum,Punjab,Fawad Ahmed,PTI,985
+NA-68,Gujrat,Punjab,Hussain Elahi,PML-Q,2270
+NA-68,Gujrat,Punjab,Nawabzada Ghazanfar Ali Gul,PML-N,1244
+NA-69,Gujrat,Punjab,Chaudry Pervaiz Elahi,PML-Q,41701
+NA-69,Gujrat,Punjab,Chaudhry Mubashir Hussain,PML-N,34193
+NA-70,Gujrat,Punjab,Chaudhry Jaffar Iqbal,PML-N,2916
+NA-70,Gujrat,Punjab,Syed Faiz ul Hassan,PTI,2717
+NA-71,Gujrat,Punjab,Abid Raza Kotla,PML-N,16440
+NA-71,Gujrat,Punjab,Muhammad Ilyas Chuadhry,PTI,13208
+NA-72,Sialkot,Punjab,Armaghan Subhani,PML-N,1101
+NA-72,Sialkot,Punjab,Firdous Ashiq,PTI,661
+NA-74,Sialkot,Punjab,Ali Zahid,PML-N,303
+NA-74,Sialkot,Punjab,Ghulam Abbas,PML-N,291
+NA-75,Sialkot,Punjab,Syed Iftikhar Ul Hassan,PML-N,5264
+NA-75,Sialkot,Punjab,Ali Asjad Malhi,PTI,2872
+NA-75,Sialkot,Punjab,Usman Abid,IND,111
+NA-76,Sialkot,Punjab,Rana Shamim Ahmed Khan,PML-N,394
+NA-76,Sialkot,Punjab,Muhammad Aslam,PTI,320
+NA-77,Narowal,Punjab,Mehnaz Aziz,PML-N,52685
+NA-77,Narowal,Punjab,Mian Muhammad Rasheed,PTI,11063
+NA-78,Narowal,Punjab,Ahsan Iqbal,PML-N,59771
+NA-78,Narowal,Punjab,Abrar Ul Haq,PTI,15240
+NA-79,Gujranwala,Punjab,Muhammad Ahmed Chattha,PTI,31450
+NA-79,Gujranwala,Punjab,Nisar Ahmad Cheema,PML-N,28332
+NA-80,Gujranwala,Punjab,Tariq Mehmood,PTI,28840
+NA-80,Gujranwala,Punjab,Chaudhry Mehmood Bashir Virk,PML-N,25774
+NA-81,Gujranwala,Punjab,Khurram Dastagir Khan,PML-N,17872
+NA-82,Gujranwala,Punjab,Usman Ibrahim,PML-N,15550
+NA-82,Gujranwala,Punjab,Ali Ashraf Mughal,PTI,13435
+NA-83,Gujranwala,Punjab,Zulfiqar Ahmad,PML-N,30275
+NA-83,Gujranwala,Punjab,Rana Nazir Ahmad Khan,PTI,14273
+NA-84,Gujranwala,Punjab,Azhar Qayyum nahra,PML-N,15400
+NA-84,Gujranwala,Punjab,Chaudhry Bilal Ejaz,PTI,11338
+NA-85,Mandi Bahauddin,Punjab,Haji Imtiaz Ahmad Chodhary,PTI,20996
+NA-85,Mandi Bahauddin,Punjab,Chaudhary Mushahid Raza,PML-N,9580
+NA-85,Mandi Bahauddin,Punjab,Asif Bashir Bhagat,PPPP,3259
+NA-87,Hafizabad,Punjab,Saira Afzal Tarar,PML-N,2879
+NA-87,Hafizabad,Punjab,Chaudhary Shaukat Ali Bhatti,PTI,2340
+NA-88,Sargodha,Punjab,Muktar Ahmad Bharat,PML-N,12373
+NA-88,Sargodha,Punjab,Nadeem Afzal Gondal,PTI,8170
+NA-89,Sargodha,Punjab,Usama Ghias Ahmad Mela,PTI,15698
+NA-89,Sargodha,Punjab,Mohsin Shahnawaz Ranjha,PML-N,12431
+NA-90,Sargodha,Punjab,Doctor Nadia Aziz,PTI,19475
+NA-90,Sargodha,Punjab,Chaudhary Hamid Hameed,PML-N,16651
+NA-92,Sargodha,Punjab,Syed Javed Hasnain Shah,PML-N,9613
+NA-92,Sargodha,Punjab,Sahibzada Naeem Ud Din Sialvi,PTI,6754
+NA-92,Sargodha,Punjab,Zafar Ahmad,IND,746
+NA-93,Khushab,Punjab,Malik Umer Aslam Awan,PTI,5866
+NA-93,Khushab,Punjab,Sumaira Malik,PML-N,3326
+NA-94,Khushab,Punjab,Malik Mohammad Ehsan Ullah Tiwana,PTI,10602
+NA-94,Khushab,Punjab,Malik Shakir Bashir Awan,PML-N,6656
+NA-95,Mianwali,Punjab,Imran Ahmad Khan Niazi,PTI,15556
+NA-95,Mianwali,Punjab,Obaid Ullah Khan,PML-N,2606
+NA-96,Mianwali,Punjab,Amjad Ali Khan,PTI,73345
+NA-96,Mianwali,Punjab,Muhammad Humair Hayat Khan Niazi,PML-N,15966
+NA-97,Bhakkar,Punjab,Muhammad Sana Ullah Khan Masti Khel,IND,3699
+NA-97,Bhakkar,Punjab,Abdul Majeed Khan,PML-N,1684
+NA-97,Bhakkar,Punjab,Malik Amjad Ali,PTI,60
+NA-98,Bhakkar,Punjab,Rasheed Akbar Khan,IND,4745
+NA-98,Bhakkar,Punjab,Muhammad Afzal Khan,PTI,1992
+NA-99,Chiniot,Punjab,Ghulam Abbas,IND,113
+NA-99,Chiniot,Punjab,Ghulam Muhammad,PTI,82
+NA-101,Faisalabad,Punjab,Chaudhary Muhammad Asim Nazeer,IND,20205
+NA-101,Faisalabad,Punjab,Zafar Zulqarnain Sahi,PTI,10406
+NA-104,Faisalabad,Punjab,Ch. Muhammad Shahbaz Babar,PML-N,440
+NA-104,Faisalabad,Punjab,Sardar dildar ahmed cheema,PTI,272
+NA-104,Faisalabad,Punjab,Khalid Mehmood gill,IND,125
+NA-105,Faisalabad,Punjab,Muhammad Masood Nazir,IND,11569
+NA-105,Faisalabad,Punjab,Raza Nasrullah,IND,4336
+NA-106,Faisalabad,Punjab,Nisar ahmed jutt,PTI,5080
+NA-106,Faisalabad,Punjab,Rana Sanaullah Khan,PML-N,4214
+NA-107,Faisalabad,Punjab,Khurram Shehzad,PTI,9877
+NA-107,Faisalabad,Punjab,Haji Muhammad Akram Ansari,PML-N,7614
+NA-108,Faisalabad,Punjab,Chaudhary Abid Sher Ali,PML-N,7022
+NA-108,Faisalabad,Punjab,Farrukh Habib,PTI,6542
+NA-109,Faisalabad,Punjab,Faiz ullah Kamoka,PTI,118
+NA-109,Faisalabad,Punjab,Mian Abdul Mannan,PML-N,116
+NA-110,Faisalabad,Punjab,Raja Riaz Ahmed,PTI,12620
+NA-110,Faisalabad,Punjab,Rana Muhammad Afzal Khan,PML-N,12598
+NA-111,Toba Tek Singh,Punjab,Chaudhary Khalid Javed,PML-N,10263
+NA-111,Toba Tek Singh,Punjab,Usama Hamza,PTI,5952
+NA-112,Toba Tek Singh,Punjab,Muhammad Junaid Anwar Chaudhry,PML-N,8128
+NA-112,Toba Tek Singh,Punjab,Muhammad Ashfaq,PTI,7697
+NA-113,Toba Tek Singh,Punjab,Muhammad Riaz Khan,PTI,9284
+NA-113,Toba Tek Singh,Punjab,Chaudhary Asad Ur Rehman,PML-N,6789
+NA-114,Jhang,Punjab,Sahibzada Muhammad Mehboob Sultan,PTI,15923
+NA-114,Jhang,Punjab,Makhdoom Syed Faisal Saleh Hayat,PPPP,9466
+NA-114,Jhang,Punjab,Aleesha Iftikhar,IND,6556
+NA-115,Jhang,Punjab,Ghulam Bibi,PTI,10279
+NA-115,Jhang,Punjab,Muhammad Ahmad,IND,10164
+NA-115,Jhang,Punjab,Waqas Akram,IND,75
+NA-116,Jhang,Punjab,Muhammad Asif Muavia,IND,395
+NA-116,Jhang,Punjab,Muhammad Ameer Sultan,PTI,331
+NA-117,Nankana Sahib,Punjab,Ch. Bilal Ahmad Virk,PTI,2055
+NA-117,Nankana Sahib,Punjab,Tariq Mehmood Bajwa,IND,1047
+NA-118,Nankana Sahib,Punjab,Shezra Mansab Ali,PML-N,11992
+NA-118,Nankana Sahib,Punjab,Ijaz Ahmad Shah,PTI,8358
+NA-118,Nankana Sahib,Punjab,Syed Afzaal Hussain Rizvi,TLP,607
+NA-119,Sheikhupura,Punjab,Rahat Aman Ullah Bhatti,PTI,20442
+NA-119,Sheikhupura,Punjab,Rana Afzaal Hussain,PML-N,15876
+NA-121,Sheikhupura,Punjab,Muhammad Saeed Virk,PTI,724
+NA-121,Sheikhupura,Punjab,Javed Latif,PML-N,687
+NA-122,Sheikhupura,Punjab,Muhammad Arfan Dogar,PML-N,4451
+NA-122,Sheikhupura,Punjab,Ali Salman,PTI,2683
+NA-123,Lahore,Punjab,Muhammad Malik Riaz,PML-N,5511
+NA-123,Lahore,Punjab,Meher Wajid Azeem,PTI,5065
+NA-124,Lahore,Punjab,Hamza Shehbaz Sharif,PML-N,14336
+NA-124,Lahore,Punjab,Nauman Qaiser,PTI,8277
+NA-125,Lahore,Punjab,Waheed Alam Khan,PML-N,2760
+NA-125,Lahore,Punjab,Yasmeen Rashid,PTI,1056
+NA-126,Lahore,Punjab,Hammad Azhar,PTI,17874
+NA-126,Lahore,Punjab,Mehr Ishtiaq Ahmed,PML-N,15436
+NA-128,Lahore,Punjab,Sheikh Rohail Asgher,PML-N,88
+NA-128,Lahore,Punjab,Aijaz Ahmed,PTI,41
+NA-129,Lahore,Punjab,Sardar Ayaz Sadiq,PML-N,225
+NA-129,Lahore,Punjab,Abdul Aleem Khan,PTI,140
+NA-130,Lahore,Punjab,Shafqat Mehmood,PTI,447
+NA-130,Lahore,Punjab,Khwaja Ahmed Hassan,PML-N,209
+NA-131,Lahore,Punjab,Imran Ahmad Khan Niazi,PTI,1687
+NA-131,Lahore,Punjab,Khawaja Saad Rafique,PML-N,474
+NA-133,Lahore,Punjab,Ejaz Ahmed Choudhry,PTI,4498
+NA-133,Lahore,Punjab,Muhammad Pervaiz Malik,PML-N,4083
+NA-135,Lahore,Punjab,Malik Saif Ul Mulook Khokhar,PML-N,5516
+NA-135,Lahore,Punjab,Malik Karamat Ali Khokhar,PTI,5510
+NA-136,Lahore,Punjab,Malik Asad Ali Khokhar,PTI,5731
+NA-136,Lahore,Punjab,Malik Muhamad Afzal Khokhar,PML-N,2541
+NA-136,Lahore,Punjab,Jamil Ahmed,PPPP,39
+NA-138,Kasur,Punjab,Rasheed Ahmed Khan,PML-N,2314
+NA-138,Kasur,Punjab,Sardar Rashid Tufail,PTI,1267
+NA-139,Kasur,Punjab,Azeem ud din Zahid,PTI,3957
+NA-139,Kasur,Punjab,Rana Muhammad Ishaq Khan,PML-N,3726
+NA-140,Kasur,Punjab,Sardar Talib Hassan Nakai,PTI,5609
+NA-140,Kasur,Punjab,Rana Muhammad Hayat Khan,PML-N,3402
+NA-141,Okara,Punjab,Nadeem Abbas Rabera,PML-N,1462
+NA-141,Okara,Punjab,Syed Samsan Shah Bukhari,PTI,638
+NA-142,Okara,Punjab,Ch Riaz ul Haq juj,PML-N,13651
+NA-142,Okara,Punjab,Rao Hassan Sikandar,PTI,6365
+NA-143,Okara,Punjab,Rao Muhammad Ajmal Khan,PML-N,477
+NA-143,Okara,Punjab,Syed Gulzar Sibtain Shah,PTI,296
+NA-144,Okara,Punjab,Mian Manzoor Ahmed Khan Watto,IND,10505
+NA-144,Okara,Punjab,Muhammad Moin Khan Watto,PML-N,5495
+NA-145,Pakpattan,Punjab,Ahmed Raza Khan Manika,PML-N,8465
+NA-145,Pakpattan,Punjab,Sardar Mansab Ali Dogger,IND,3729
+NA-146,Pakpattan,Punjab,Rana Iradat Sharif Khan,IND,8647
+NA-146,Pakpattan,Punjab,Muhammad Amjad Joiya,PTI,3538
+NA-147,Sahiwal,Punjab,Chuadhry Naveer Shakoor,PTI,5382
+NA-148,Sahiwal,Punjab,Chaudhry Muhammad Ashraf,PML-N,6333
+NA-148,Sahiwal,Punjab,Malik Muhammad yar Dhakoo,PTI,2971
+NA-149,Sahiwal,Punjab,Muhammad Tufail,PML-N,11977
+NA-149,Sahiwal,Punjab,Rai Muhammad Murtaza Iqbal,PTI,10122
+NA-150,Khanewal,Punjab,Syed Fakhar Imam,IND,4397
+NA-150,Khanewal,Punjab,Muhammad Raza Hayat Hiraj,PTI,4029
+NA-151,Khanewal,Punjab,Sardar Ahmed Yar Hiraj,PTI,2449
+NA-151,Khanewal,Punjab,Muhammad Khan Daha,PML-N,2021
+NA-152,Khanewal,Punjab,Peer Aslam Bodla,PML-N,4991
+NA-152,Khanewal,Punjab,Zahoor Hussain Qureshi,PTI,4819
+NA-153,Khanewal,Punjab,Chaudry Iftikhar Nazir,PML-N,4546
+NA-153,Khanewal,Punjab,Malik Ghulam Murtaza Matila,PTI,3196
+NA-154,Multan,Punjab,Sikandar Hayat Khan Bosan,IND,12075
+NA-154,Multan,Punjab,Syed Abdul Qadir Gilani,PPPP,7198
+NA-154,Multan,Punjab,Ahmed Hussain Dehr,PTI,398
+NA-155,Multan,Punjab,Malik Mohammad Amir Dogar,PTI,8105
+NA-155,Multan,Punjab,Sheikh Muhammad Tariq Rasheed,PML-N,6966
+NA-156,Multan,Punjab,Makhdoom Shah Mehmood Qureshi,PTI,15113
+NA-156,Multan,Punjab,Amir Saeed Ansari,PML-N,11288
+NA-157,Multan,Punjab,Syed Ali Moosa Gilani,PPPP,4230
+NA-157,Multan,Punjab,Zain Qureshi,PTI,3652
+NA-157,Multan,Punjab,Malik Abdul Gaffar Dogar,PML-N,2220
+NA-158,Multan,Punjab,Syed Yousuf Raza Gilani,PPPP,18219
+NA-158,Multan,Punjab,Syed Jawaid Ali Shah,PML-N,16685
+NA-158,Multan,Punjab,Muhammad Ibrahim Khan,PTI,4193
+NA-159,Multan,Punjab,Rana Muhammad Qasim Noon,PTI,4313
+NA-159,Multan,Punjab,Muhammad Zulqarnain Bukhari,PML-N,3715
+NA-160,Lodhran,Punjab,Abdul Rehman Khan kanchu,PML-N,10268
+NA-160,Lodhran,Punjab,Muhammd Akhtar Kanchu,PTI,9378
+NA-161,Lodhran,Punjab,Khan Muhammad Siddique Khan Baloch,PML-N,1596
+NA-162,Vehari,Punjab,Chuadhary Faqir Ahmad Arain,PML-N,3983
+NA-162,Vehari,Punjab,Ayesha Nazir Jatt,IND,3529
+NA-163,Vehari,Punjab,Syed Sajid Mehdi,PML-N,1099
+NA-163,Vehari,Punjab,Ishaq Khan Khakwani,PTI,517
+NA-163,Vehari,Punjab,Natasha Daultana,PPPP,32
+NA-164,Vehari,Punjab,Tahir Iqbal Chuadhry,PTI,3613
+NA-164,Vehari,Punjab,Begum Tehmina Doultana,PML-N,3110
+NA-165,Vehari,Punjab,Aurangzeb Khan Khichi,PTI,4102
+NA-165,Vehari,Punjab,Saeed Ahmad Khan Manais,PML-N,2172
+NA-166,Bahawalnagar,Punjab,Muhammad Abdul Ghafar Wattoo,IND,997
+NA-166,Bahawalnagar,Punjab,Syed Muhammad Asghar,PTI,469
+NA-167,Bahawalnagar,Punjab,Mian Mumtaz Ahmed Mutayana,PTI,143
+NA-167,Bahawalnagar,Punjab,Alam Dad Lalaika,PML-N,84
+NA-170,Bahawalpur,Punjab,Muhammad Farooq Azam Malik,PTI,4160
+NA-170,Bahawalpur,Punjab,Muhammad Baligh Ur Rehman,PML-N,3150
+NA-171,Bahawalpur,Punjab,Mian Riaz Hussain Pirzada,PML-N,8115
+NA-171,Bahawalpur,Punjab,Chaudhry Naeem Ud Din Warraich,PTI,5977
+NA-172,Bahawalpur,Punjab,Tariq Bashir Cheema,PML-Q,8870
+NA-172,Bahawalpur,Punjab,Saud Majeed,PML-N,6270
+NA-173,Bahawalpur,Punjab,Mian Najeeb Ud Din Awaisi,PML-N,6171
+NA-173,Bahawalpur,Punjab,Makhdoom Syed Ali Hassan Gillani,PPPP,4693
+NA-173,Bahawalpur,Punjab,Khadeeja Aamir,PTI,2312
+NA-174,Bahawalpur,Punjab,Makhdoom Syed Sami Ul Hassan Gillani,PTI,1886
+NA-174,Bahawalpur,Punjab,Prince Bahawal Abbas Abbasi,IND,1700
+NA-174,Bahawalpur,Punjab,Makhdoom Syed Ali Hassan Gillani,PPPP,217
+NA-175,Rahim Yar Khan,Punjab,khawaja Ghulam Rasool koreja,PPPP,447
+NA-175,Rahim Yar Khan,Punjab,Syed Mobeen Ahmed,PTI,427
+NA-176,Rahim Yar Khan,Punjab,Sheikh Fayyaz uddin,PML-N,5433
+NA-176,Rahim Yar Khan,Punjab,Mian Ghous Muhammad,PTI,2241
+NA-176,Rahim Yar Khan,Punjab,Syed Tanveer Hussain,PPPP,186
+NA-177,Rahim Yar Khan,Punjab,Makhdoom Khusru Bakhtiyar,PTI,14070
+NA-177,Rahim Yar Khan,Punjab,Makhdoom Shahab uddin,PPPP,7901
+NA-178,Rahim Yar Khan,Punjab,Syed Mustafa Mehmood,PPPP,1822
+NA-178,Rahim Yar Khan,Punjab,Muhammad Tariq Chohan,PML-N,75
+NA-179,Rahim Yar Khan,Punjab,Mian Imtiaz Ahmed,PML-N,363
+NA-179,Rahim Yar Khan,Punjab,Jawaid Iqbal Waraich,PTI,323
+NA-180,Rahim Yar Khan,Punjab,Muhammad Arshad Khan Laghari,PML-N,597
+NA-180,Rahim Yar Khan,Punjab,Syed Murtaza Mehmood,PPPP,357
+NA-180,Rahim Yar Khan,Punjab,Sardar Rafiq Haider,PTI,72
+NA-181,Muzaffargarh,Punjab,Muhammad Shabir Ali,IND,3774
+NA-181,Muzaffargarh,Punjab,Sultan Mehmood Hinjra,IND,3093
+NA-181,Muzaffargarh,Punjab,Chaudhry Ahsan Ul Haq Ahsan,PPPP,346
+NA-182,Muzaffargarh,Punjab,Hammad Nawaz Khan,PML-N,3479
+NA-182,Muzaffargarh,Punjab,Mehar Irshad Ahmed,PPPP,3326
+NA-182,Muzaffargarh,Punjab,Begum Tehmina Dasti,PTI,366
+NA-182,Muzaffargarh,Punjab,Jamshed Ahmed Dasti,ARP,76
+NA-183,Muzaffargarh,Punjab,Malik Muhammad Rafiq khar,PTI,543
+NA-183,Muzaffargarh,Punjab,Raza Rabbani khar,PPPP,503
+NA-183,Muzaffargarh,Punjab,Muhammad Arif Khan baloch,PML-N,143
+NA-184,Muzaffargarh,Punjab,Jamshed Ahmed Dasti,ARP,404
+NA-184,Muzaffargarh,Punjab,Malik Ahmed karim Qaswar langrial,IND,234
+NA-185,Muzaffargarh,Punjab,Muhammad Muazzam Ali Jatoi,PTI,1950
+NA-185,Muzaffargarh,Punjab,Syed Basit Ahmed Sultan,IND,1614
+NA-186,Muzaffargarh,Punjab,Sardar Khizir Hayat Khan,IND,3915
+NA-186,Muzaffargarh,Punjab,Amir Talal Gopang,PTI,3556
+NA-187,Layyah,Punjab,Abdul Majeed Khan Niazi,PTI,684
+NA-187,Layyah,Punjab,Bahadur Ahmed Khan,IND,132
+NA-188,Layyah,Punjab,Niaz Ahmed Jakhar,PTI,15252
+NA-188,Layyah,Punjab,Syed Muhammad Saqlain Bukhari,PML-N,10878
+NA-189,Dera Ghazi Khan,Punjab,Khawja Sheraz Mehmood,PTI,30225
+NA-190,Dera Ghazi Khan,Punjab,Muhammad Amjad Farooq Khan Khosa,IND,885
+NA-190,Dera Ghazi Khan,Punjab,Sardar Zulfiqar Ali Khan Khosa,PTI,831
+NA-191,Dera Ghazi Khan,Punjab,Sardar Awais Ahmed Khan Leghari,PML-N,1626
+NA-191,Dera Ghazi Khan,Punjab,Zartaj Gull,PTI,986
+NA-192,Dera Ghazi Khan,Punjab,Mian Muhammad Shehbaz Sharif,PML-N,6201
+NA-192,Dera Ghazi Khan,Punjab,Sardar Muhammad Khan Leghari,PTI,4664
+NA-193,Rajanpur,Punjab,Sardar Muhammad Jaffar Khan Leghari,PTI,5458
+NA-193,Rajanpur,Punjab,Sardar Sher Ali Khan Gurchani,PML-N,3586
+NA-194,Rajanpur,Punjab,Hafeez Ur Rehman Khan Dreshak,IND,306
+NA-194,Rajanpur,Punjab,Sardar Nasrullah Khan Dreshak,PTI,198
+NA-195,Rajanpur,Punjab,Sardar Riaz Mehmood Khan Mazari,PTI,4505
+NA-195,Rajanpur,Punjab,Khizar Hussain Mazari,PML-N,2990
+NA-196,Jacobabad,Sindh,Muhammad Mian Soomro,PTI,14130
+NA-196,Jacobabad,Sindh,Mir Aijaz Hussain Jakhrani,PPPP,10153
+NA-197,Kashmore,Sindh,Ehsan-Ur-Rehman Mazari,PPPP,28950
+NA-197,Kashmore,Sindh,Shamsheer Ali Mazari,MMA,10390
+NA-198,Shikarpur,Sindh,Abid Hussain Bahyo,PPPP,400
+NA-198,Shikarpur,Sindh,Mulana Abdullah Pahore,MMA,151
+NA-199,Shikarpur,Sindh,Zulfiqar Ali kemario,PPP,8796
+NA-199,Shikarpur,Sindh,Ghous Bux Mahar,GDA,4093
+NA-200,Larkana,Sindh,Rashid Mehmood Soomro,MMA,13878
+NA-200,Larkana,Sindh,Bilawal Bhutto Zardari,PPPP,12915
+NA-201,Larkana,Sindh,Khursheed Ahmed Junejo,PPP,677
+NA-201,Larkana,Sindh,Allah Bux Unar,GDA,458
+NA-202,Kambar-Shahdadkot,Sindh,Aftab Shahban Mirani,PPP,1120
+NA-202,Kambar-Shahdadkot,Sindh,Nasir Mehmmod Soomro,MMA,350
+NA-203,Kambar-Shahdadkot,Sindh,Mir Amir Ali Khan Magsi,PPPP,8108
+NA-203,Kambar-Shahdadkot,Sindh,Sakhawat Ali,PTI,1051
+NA-203,Kambar-Shahdadkot,Sindh,Nawab-ud-din,IND,266
+NA-204,Ghotki,Sindh,Abdul Haque Alias Mian Mitha,IND,3685
+NA-204,Ghotki,Sindh,Khalid Ahmed Khan lund,PPPP,3039
+NA-205,Ghotki,Sindh,Ali Muhammad Khan Mahar,IND,5729
+NA-205,Ghotki,Sindh,Ahsanullah,PPPP,3904
+NA-206,Sukkur,Sindh,Syed Khursheed Ahmed Shah,PPPP,26036
+NA-206,Sukkur,Sindh,Syed Tahir Hussain Shah,PTI,11270
+NA-207,Sukkur,Sindh,Nauman Islam Shaikh,PPPP,7832
+NA-207,Sukkur,Sindh,Mubeen Ahmed,PTI,3601
+NA-208,Khairpur,Sindh,Nafisa Shah,PPPP,23241
+NA-208,Khairpur,Sindh,Syed Ghous Ali Shah,GDA,8532
+NA-209,Khairpur,Sindh,Pir Syed Fazal Ali Shah,PPPP,2742
+NA-209,Khairpur,Sindh,Pir Syed Sadaruddin Shah Rashidi,GDA,2091
+NA-210,Khairpur,Sindh,Syed Kazim ALi Shah,GDA,6041
+NA-210,Khairpur,Sindh,Syed Javed Ali Shah Jillani,PPPP,4218
+NA-211,Naushehro Feroze,Sindh,Allahando Shah Alias Zafar Ali Shah,GDA,2725
+NA-211,Naushehro Feroze,Sindh,Syed Abrar Ali Shah,PPPP,1514
+NA-212,Naushehro Feroze,Sindh,Ghulam Murtaza Khan Jatoi,GDA,7272
+NA-212,Naushehro Feroze,Sindh,Zulfiqar Ali Behan,PPPP,6130
+NA-213,Shaheed Benazirabad,Sindh,Asif Ali Zardari,PPP,2022
+NA-213,Shaheed Benazirabad,Sindh,Sardar Shair Muhammad Rind,GDA,1043
+NA-214,Shaheed Benazirabad,Sindh,Syed Ghulam Mustafa Shah,PPPP,47359
+NA-214,Shaheed Benazirabad,Sindh,Syed Zain Ul Abdin,SUP,14126
+NA-215,Sanghar,Sindh,Haji Khuda bux Rajar,GDA,13691
+NA-215,Sanghar,Sindh,Naveed Dero,PPPP,8706
+NA-216,Sanghar,Sindh,Kishan Chand Parwani,GDA,12125
+NA-216,Sanghar,Sindh,Shazia Marri,PPPP,4757
+NA-217,Sanghar,Sindh,Roshan Uddin Junejo,PPPP,12938
+NA-217,Sanghar,Sindh,Mehar Ali Alias Mahi Khan,GDA,1925
+NA-218,Mirpurkhas,Sindh,Ali Nawaz Shah,IND,8013
+NA-218,Mirpurkhas,Sindh,Peer Hasan Shah Jelani,PPPP,5510
+NA-219,Mirpurkhas,Sindh,Arbab Ghulam Rahim,GDA,145
+NA-219,Mirpurkhas,Sindh,Mir Munwar Ali Talpur,PPPP,71
+NA-220,Umerkot,Sindh,Nawab Yousaf Talpur,PPPP,26000
+NA-220,Umerkot,Sindh,Makhdoom Shah Mehmood Qureshi,PTI,19192
+NA-221,Tharparkar,Sindh,Makhdoom Shah Mehmood Qureshi,PTI,633
+NA-221,Tharparkar,Sindh,Pir Noor Muhammad Shah Jelani,PPPP,591
+NA-222,Tharparkar,Sindh,Mahesh Kumar Malani,PPPP,19030
+NA-222,Tharparkar,Sindh,Arbab Zakaullah,GDA,9270
+NA-223,Matiari,Sindh,Makhdoom Jamil uz Zaman,PPPP,18081
+NA-223,Matiari,Sindh,Makhdoom Fazal Hussain,GDA,6638
+NA-224,Tando Allah Yar,Sindh,Muhammmad Mohsin,GDA,8141
+NA-224,Tando Allah Yar,Sindh,Zulfiqar Bachani,PPPP,6122
+NA-225,Hyderabad,Sindh,Syed Hussain Tarique,PPPP,12778
+NA-225,Hyderabad,Sindh,Khawand Bux Ghulam Muhammad,PTI,5150
+NA-226,Hyderabad,Sindh,Sabir kaim khani,MQM-P,340
+NA-226,Hyderabad,Sindh,Jamshed Ali Shaikh,PTI,300
+NA-227,Hyderabad,Sindh,Salahuddin son of shaikh Rahimuddin,MQM-H,2915
+NA-227,Hyderabad,Sindh,Q Muhammad Hakam,PTI,2018
+NA-228,Tando Muhammad Khan,Sindh,syed Naveed Qamar,PPPP,21294
+NA-228,Tando Muhammad Khan,Sindh,Mir Ali NAwaz Talpur,GDA,8668
+NA-229,Badin,Sindh,Mir Ghulam Ali,PPPP,5541
+NA-229,Badin,Sindh,Muhammad Hassam Mirza,GDA,4115
+NA-230,Badin,Sindh,Dr Fehmida Mirza,GDA,3906
+NA-230,Badin,Sindh,Haji Rasool Bux Chandio,PPPP,3335
+NA-231,Sajawal,Sindh,Syed Ayaz Ali Shah Sheerazi,PPPP,8076
+NA-231,Sajawal,Sindh,Molvi Muhammad Saleh Alahdad,MMA,704
+NA-232,Thatta,Sindh,Shams ul Nisa,PPPP,28777
+NA-232,Thatta,Sindh,Arslan Bux Brohi,PTI,4117
+NA-233,Jamshoro,Sindh,Sikandar Ali Rahoupoto,PPPP,3338
+NA-233,Jamshoro,Sindh,Syed Jalal Mehmood,SUP,1432
+NA-234,Dadu,Sindh,Irfan Ali Laghari,PPPP,850
+NA-234,Dadu,Sindh,Liaqat Ali Jatoi,PTI,729
+NA-235,Dadu,Sindh,Rafiq Ahmed Jamali,PPPP,21927
+NA-235,Dadu,Sindh,Karim Ali Jatoi,PTI,9864
+NA-236,Karachi,Sindh,Jam Abdul Karim Bijar,PPPP,1654
+NA-236,Karachi,Sindh,Masroor Ali,PTI,168
+NA-236,Karachi,Sindh,Afshan Shahida,TLP,21
+NA-238,Karachi,Sindh,Zunaira Rehman,PTI,161
+NA-238,Karachi,Sindh,Hafiz Aurangzaib,PRHP,142
+NA-240,Karachi,Sindh,Iqbal Muhammad Ali Khan,MQM-P,4648
+NA-240,Karachi,Sindh,Farrukh Manzoor,PTI,2165
+NA-240,Karachi,Sindh,Afaq Shafqat,MQM-H,339
+NA-243,Karachi,Sindh,Imran Ahmad Khan Niazi,PTI,712
+NA-243,Karachi,Sindh,Muhammad Usama Razi,MMA,174
+NA-244,Karachi,Sindh,Ali Haider Zaidi,PTI,280
+NA-244,Karachi,Sindh,Miftah Ismail Ahmed,PML-N,116
+NA-246,Karachi,Sindh,Bilawal Bhutto Zardari,PPPP,1155
+NA-246,Karachi,Sindh,Abdul Shakoor Shaad,PTI,765
+NA-248,Karachi,Sindh,Abdul Qadir Patel,PPPP,688
+NA-248,Karachi,Sindh,Sardar Aziz,PTI,331
+NA-248,Karachi,Sindh,Mohammad Salman Khan,PML-N,133
+NA-250,Karachi,Sindh,Ali Ahmed,PPPP,245
+NA-250,Karachi,Sindh,Attah Ulla,PTI,164
+NA-251,Karachi,Sindh,Syed Amin Ul Haq,MQM-P,324
+NA-251,Karachi,Sindh,Mohammad Laeeque Khan,MMA,133
+NA-252,Karachi,Sindh,Dr.Abdul Qadir Khanzada,MQM-P,117
+NA-252,Karachi,Sindh,Aftab Jehangir,PTI,85
+NA-253,Karachi,Sindh,Khalid Mumtaz,PML-N,215
+NA-253,Karachi,Sindh,Muhammad Ashraf Jabbar,PTI,112
+NA-255,Karachi,Sindh,Mehmood Baqi Moulvi,PTI,1453
+NA-255,Karachi,Sindh,Dr. Khalid Maqbool Siddiqui,MQM-P,809
+NA-256,Karachi,Sindh,Amir Wali Uddin Chishti,MQM-P,550
+NA-256,Karachi,Sindh,Meraj Ul Huda Siddiui,MMA,215
+NA-257,Zhob,Balochistan,Molana Abdul Wassay,MMA,1419
+NA-257,Zhob,Balochistan,Abdul Rauf,JUI-NP,361
+NA-257,Zhob,Balochistan,Allah Noor,PkMAP,221
+NA-258,Loralai,Balochistan,Sardar Yaqoob Khan Nasar,PML-N,2292
+NA-258,Loralai,Balochistan,Sardar Muhammad Israr Tareen,BAP,1678
+NA-258,Loralai,Balochistan,Amir Zaman,MMA,747
+NA-258,Loralai,Balochistan,Habib-ur-Rehman,PkMAP,156
+NA-259,Kohlu,Balochistan,Mir Hair Bayar Khan Domki,IND,1275
+NA-259,Kohlu,Balochistan,Mir Dostain Khan Domki,BAP,562
+NA-259,Kohlu,Balochistan,Babar Marghzani,PTI,76
+NA-260,Nasirabad,Balochistan,Sardar Yar Muhammad Rind,PTI,110
+NA-260,Nasirabad,Balochistan,Khalid Hussain Magsi,BAP,50
+NA-263,Pishin,Balochistan,Asghar Khan Achakzai,ANP,2088
+NA-263,Pishin,Balochistan,Mehmood Khan Achakzai,PkMAP,1525
+NA-263,Pishin,Balochistan,Sallah Uddin,MMA,1254
+NA-265,Quetta,Balochistan,Qasim Khan Suri,PTI,296
+NA-265,Quetta,Balochistan,Rahila Hameed Khan Durrani,PML-N,275
+NA-266,Quetta,Balochistan,Agha Hassan Baloch,BNP,485
+NA-266,Quetta,Balochistan,Meer Riaz Ahmad Shahwani,PPPP,70
+NA-267,Quetta,Balochistan,Manzoor Ahmed Khan,BNP,893
+NA-267,Quetta,Balochistan,Sardar Noor Ahmed,BAP,873
+NA-267,Quetta,Balochistan,Agha Syed Mehmood Shah,MMA,460
+NA-268,Chaghi,Balochistan,Muhammad Hashim,BNP,906
+NA-268,Chaghi,Balochistan,Muhammad Usman Badini,MMA,474
+NA-269,Khuzdar,Balochistan,Mohammad Akhtar Mengal,BNP,6620
+NA-269,Khuzdar,Balochistan,Muhammad Khalid Bizenjo,BAP,1377
+NA-270,Washuk,Balochistan,Meer Nazeer Ahmed Baloch,BNP,288
+NA-270,Washuk,Balochistan,Muhammad Hanif,BNP-A,248
+NA-270,Washuk,Balochistan,Attaullah Baloch,MMA,55
+NA-272,Gwadar,Balochistan,Muhammad Aslam bhotani,IND,7537
+NA-272,Gwadar,Balochistan,Jam Kamal Khan,BAP,6371
