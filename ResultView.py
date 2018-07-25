@@ -21,13 +21,22 @@ SortSeat=sorted(seat.keys(),key=operator.itemgetter(1))
 SortSeat.sort()
 print("Province",'-',"District",'-',"Constituency",' - ',"Candidate",' - ',"Party",' - ',"Total Votes")
 print(" ")
+FinalRank={}
 listing=[]
 for row in order:
     if row in SortSeat:
         L=len(result[seat[row]]['results'])
+        if result[seat[row]]['results'][0]['party'] not in FinalRank:
+            FinalRank[result[seat[row]]['results'][0]['party']]=0
+        FinalRank[result[seat[row]]['results'][0]['party']]+=1    
         for i in range(L):
             print(local[row][1],'-',local[row][0],'-',result[seat[row]]['seat'],' - ',result[seat[row]]['results'][i]['candidate'],' - ',result[seat[row]]['results'][i]['party'],' - ',result[seat[row]]['results'][i]['votes'])
             
         print("Total Votes:",result[seat[row]]['Votes Polled'],"Valid Votes:",result[seat[row]]['Valid Votes'],"Rejected Votes:",result[seat[row]]['Rejected Votes'])
         print(" ")
-        
+
+
+Ranks=sorted(FinalRank.items(),key=operator.itemgetter(1),reverse=True)            
+print('Party - Seats')
+for r in Ranks:
+    print(r[0],'-',r[1])
